@@ -1,0 +1,1 @@
+export type MainTab = 'home' | 'activities' | 'following' | 'profile' | 'users' | 'logout'
