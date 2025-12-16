@@ -28,6 +28,7 @@ Simulation de backend
 
 Technologies utilisées
    -	Vue.js 3
+   -  TypeScript
    -	Tailwind
    -	Pinia
    -	Toastify
