@@ -27,6 +27,7 @@ Simulation de backend
    -	Puisque je n’ai pas fait le backend de l’application, j’ai décidé de ne pas l’inclure, et de simuler du mieux possible le backend dans le frontend. Des délais de chargement sont donc présents lorsque l’application tente de récupérer des données du serveur. Un utilisateur temporaire est directement défini dans le code afin de simuler le comportement de l’application, en tant qu’administrateur.
 
 Technologies utilisées
+
    -	Vue.js 3
    -  TypeScript
    -	Tailwind
@@ -35,10 +36,10 @@ Technologies utilisées
 
 Installation et lancement du projet
 1.	Cloner le dépôt Git
-git clone <url-du-repo>
+   - git clone https://github.com/WilliamGFerguson/App-Microblogging-frontend-
 2.	Installer les dépendances
-npm install
+   - npm install
 3.	Lancer l’application
-npm run app
+   - npm run app
 
 L’application sera alors accessible localement dans le navigateur.
