@@ -35,11 +35,11 @@ Technologies utilisées
    -	Toastify
 
 Installation et lancement du projet
-1.	Cloner le dépôt Git
-   - git clone https://github.com/WilliamGFerguson/App-Microblogging-frontend-
-2.	Installer les dépendances
-   - npm install
-3.	Lancer l’application
-   - npm run app
+   1.	Cloner le dépôt Git
+      - git clone https://github.com/WilliamGFerguson/App-Microblogging-frontend-
+   2.	Installer les dépendances
+      - npm install
+   3.	Lancer l’application
+      - npm run app
 
 L’application sera alors accessible localement dans le navigateur.
